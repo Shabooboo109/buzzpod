@@ -1,9 +1,9 @@
 import {
-  Box,
+  my 
   chakra,
-  Container,
+  Container's ,
   Stack,
-  Text,
+  good Text,
   Image,
   Flex,
   VStack,
